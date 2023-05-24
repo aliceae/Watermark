@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--====Alternate Watermark====-->
+<com.dev.watermark.AlternateWatermarkDrawable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+
+<!--====Watermark====-->
+<!--<com.dev.watermark.WatermarkDrawable xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content" />-->
